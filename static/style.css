@@ -1,0 +1,21 @@
+body {
+    background-color: #b6b2b2;
+    font-family: Arial, sans-serif;
+    color: #55ca42;
+}
+
+h1 {
+    color: #333;
+}
+
+
+.container{
+    background-image: url("img/a.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    opacity: 0.5;
+    width: 80%;
+    margin: auto;
+    height: 100vh;
+}
